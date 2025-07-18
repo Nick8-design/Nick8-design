@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on [Aura-theme](https://play.google.com/store/apps/details?id=com.nickdieda.aura_theme)
 
 - 🌱 I’m currently learning **.NET**
+- 👨‍💻 My Portfolio available at [https://nickdieda.vercel.app](https://nickdieda.vercel.app)
 
 - 👨‍💻 All of my public projects are available at [https://nickdieda.vercel.app](https://nickdieda.vercel.app)
 
