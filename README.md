@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 👨‍💻 All of my projects are available at [https://dnd-ke.onrender.com](https://dnd-ke.onrender.com)
+- 👨‍💻 All of my public projects are available at [https://nickdieda.vercel.app](https://nickdieda.vercel.app)
 
-- 💬 Ask me about **Android,Flutter,Go,.NET**
+- 💬 Ask me about **Android,Flutter,React,Go,.NET**
 
-- 📫 How to reach me **nickeagle888@gmail.com**
+- 📫 How to reach me **nickeagle888@gmail.com,nickdieda888@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
