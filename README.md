@@ -159,8 +159,6 @@
 </p>
 <br><br><br><br><br>
 
-<!-- 🗺️ Contribution Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nick8-design&theme=github-compact" alt="GitHub Contribution Graph" />
 
 <h3 align="left">Support:</h3>
 <p>
