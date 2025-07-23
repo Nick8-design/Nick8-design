@@ -153,6 +153,15 @@
   </a>
 </p>
 
+<!-- 🔥 Top Languages Used -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nick8-design&show_icons=true&locale=en&layout=compact" alt="nick8-design" />
+</p>
+<br><br><br><br><br>
+
+<!-- 🗺️ Contribution Graph -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nick8-design&theme=github-compact" alt="GitHub Contribution Graph" />
+
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/8nick8">
