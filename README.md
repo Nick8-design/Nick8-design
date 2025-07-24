@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 👨‍💻 My Portfolio is available at [https://nickdieda.vercel.app](https://nickdieda.vercel.app)
+- 👨‍💻 My Portfolio is available at [https://nickdieda.vercel.app](https://nickdieda.web.app)
 
-- 👨‍💻 All of my public projects are available at [https://nickdieda.vercel.app](https://nickdieda.vercel.app)
+- 👨‍💻 All of my public projects are available at [https://nickdieda.web.app](https://nickdieda.web.app)
 
 - 💬 Ask me about **Android, Flutter, React, Go, .NET**
 
