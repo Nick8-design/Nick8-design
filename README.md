@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick Dieda</h1>
 <h3 align="center">A passionate Android and fullstack developer from Kenya</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nick8-design" alt="nick8-design" />
-  </a>
-</p>
+
 
 - 🔭 I’m currently working on [Aura-theme](https://play.google.com/store/apps/details?id=com.nickdieda.aura_theme)
 
